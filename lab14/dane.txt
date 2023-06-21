@@ -1,0 +1,7 @@
+Student o imieniu: Michał, nazwisku: Żuk, mieszka w miejscowości: Warszawa, studiuje na uczelni: UPH, na kierunku: Informatyka, ma średnią: 4.0
+Student o imieniu: Michał, nazwisku: Żuk, mieszka w miejscowości: Warszawa, studiuje na uczelni: UPH, na kierunku: Informatyka, ma średnią: 4.0
+Pracownik o imieniu: Paweł, nazwisku: Adam, mieszka w miejscowości: Podlasie, pracuje w firmie: Firma, na stanowisku: Pracownik, zarabia brutto: 0.0zł, zarabia netto: 0.0zł, kursy jakie ukończył: [Wózki Widłowe, Montaż Fotowoltaiki]
+Pracownik o imieniu: Łukasz, nazwisku: Kowalski, mieszka w miejscowości: Podlasie, pracuje w firmie: Firma Druga, na stanowisku: Kierownik, zarabia brutto: 1234.56zł, zarabia netto: 999.9936zł, kursy jakie ukończył: [Fajny, Nie fajny, Fajny, Nie fajny]
+Student o imieniu: Adam, nazwisku: Nieadam, mieszka w miejscowości: Warszawa, studiuje na uczelni: UPH, na kierunku: Informatyka, ma średnią: 4.666666666666667
+Student o imieniu: Michał, nazwisku: Żuk, mieszka w miejscowości: Siedlce, studiuje na uczelni: UPH, na kierunku: Informatyka, ma średnią: 4.666666666666667
+Student o imieniu: asas, nazwisku: asasa, mieszka w miejscowości: Warszawa, studiuje na uczelni: UPI, na kierunku: asdasd, ma średnią: 2.6666666666666665
